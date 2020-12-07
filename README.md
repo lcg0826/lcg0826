@@ -17,4 +17,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me : lightchan0826@gmail.com & changyu0826@naver.com
 
-- 🌱 I’m currently learning Java & Spring & SQL
+- 🌱 I’m currently learning Language Java & Python
+- 🌱 I’m currently learning FrameWork Spring & Django
+
+
+
+
+
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=lcg0826&show_icons=true)
