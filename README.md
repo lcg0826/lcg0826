@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me : lightchan0826@gmail.com & changyu0826@naver.com
 
-- 📚 My Blog : lightchan.tistory.com
+- 📚 My Blog : https://lightchan.tistory.com
 
 - 🌱 I’m currently learning Language Java & Python
 
