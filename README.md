@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 📫 How to reach me : lightchan0826@gmail.com & changyu0826@naver.com
+
+- 🌱 I’m currently learning Java & Spring & SQL
