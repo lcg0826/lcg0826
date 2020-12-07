@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Language Java & Python
 
+### Experience
+
+- :school: ChungWoon University ( 2014.03 ~ 2020.08 )
+- :closed_book: KIC Campus - 클라우드기반 빅데이터 분석 및 자바 딥러닝 개발자 과정 ( 2020.01.28 ~ 2020.07.26 )
