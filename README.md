@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcg0826)](https://solved.ac/lcg0826/)
 <!--
 **lcg0826/lcg0826** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,3 +26,4 @@ Here are some ideas to get you started:
 
 - :school: ChungWoon University ( 2014.03 ~ 2020.08 )
 - :closed_book: KIC Campus - 클라우드기반 빅데이터 분석 및 자바 딥러닝 개발자 과정 ( 2020.01.28 ~ 2020.07.26 )
+
