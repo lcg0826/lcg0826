@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 
 </br></br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcg0826)](https://solved.ac/lcg0826/)
+<!-- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lcg0826)](https://solved.ac/lcg0826/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcg0826&show_icons=true&theme=default)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcg0826&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcg0826&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
